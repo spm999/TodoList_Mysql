@@ -23,7 +23,7 @@ Import the provided SQL file (tasks.sql) into your newly created database. This 
 Clone the repository to your local machine.
    ```bash
    git clone https://github.com/spm999/TodoList_Mysql.git
-   
+   ```
 Navigate to Project Directory: Open the project directory in your terminal.
     ```bash
     cd server
@@ -45,10 +45,10 @@ Start Frontend Development Server: Navigate to the frontend directory and start 
 
 
 ## Dependencies
-React
-Express.js
-MySQL
-Axios
+1. React
+2. Express.js
+3. MySQL
+4. Axios
 
 
 
