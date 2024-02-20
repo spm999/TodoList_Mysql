@@ -6,11 +6,11 @@ To use MySQL for data storage in this application, you can set up MySQL using XA
 
 
 
-#### Download XAMPP: 
-#### Start XAMPP: 
-#### Access phpMyAdmin: 
-#### Create Database: 
-#### Import SQL File: 
+#### 1. Download XAMPP: 
+#### 2. Start XAMPP: 
+#### 3. Access phpMyAdmin: 
+#### 4. Create Database: 
+#### 5. Import SQL File: 
 
 
 
@@ -27,17 +27,17 @@ Navigate to Project Directory: Open the project directory in your terminal.
     ```
     
 Install Dependencies: Install the necessary dependencies using npm in both app and server.
-    ```bash
+    ```
     npm install
     ```
     
 Start Backend Server: Start the backend server.
-    ```bash
+    ```
     npm start
     ```
     
 Start Frontend Development Server: Navigate to the frontend directory and start the frontend development server.
-    ```bash
+    ```
     cd app
     npm run dev
     ```
