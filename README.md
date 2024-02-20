@@ -39,6 +39,8 @@ Start Backend Server: Start the backend server.
 Start Frontend Development Server: Navigate to the frontend directory and start the frontend development server.
     ```
     cd app
+    ```
+    ```
     npm run dev
     ```
     
